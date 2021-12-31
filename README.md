@@ -1,1 +1,1 @@
-# Image-Processing_Hybrid_Image
+# Image-Processing-Hybrid-Image
